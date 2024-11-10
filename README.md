@@ -1,1 +1,2 @@
 # NLP_Project-IMDB_Uncharted
+In this project, you are performing Natural Language Processing (NLP) on a dataset of text reviews collected from the IMDb website. These reviews are for the movie "Uncharted", which is based on the popular Uncharted video game series, an action-adventure game. The movie adapts the video game into a film, and the reviews express various opinions on how well the movie reflects the original game and its overall quality.
